@@ -1,4 +1,4 @@
-﻿$exportPath = C:\temp\N-Central_customproperties.csv
+﻿$exportPath = "C:\temp\N-Central_customproperties.csv"
 
 $filter = New-Object psobject
 $filter | Add-Member NoteProperty filterid 1257762814
